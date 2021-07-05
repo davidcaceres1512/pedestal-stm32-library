@@ -1,5 +1,19 @@
-libraries for project "pedestal"
+#libraries for project "pedestal"
+
 ---
+
+###**install repo library as a gitmodule:**
+> obs:
+> into the repo DSA_pedestal put the next steps
+1. in each project, add this repository as a git submodule
+
+```bash
+git add submodule https://github.com/davidcaceres1512/pedestal-stm32-library.git software/library
+```
+2. Update the git submodule
+```bash
+git submodule update --remot software/library
+```
 ---
 
 **description libraries:**
