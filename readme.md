@@ -12,7 +12,7 @@ git add submodule https://github.com/davidcaceres1512/pedestal-stm32-library.git
 ```
 2. Update the git submodule
 ```bash
-git submodule update --remot software/library
+git submodule update --remote software/library
 ```
 ---
 
