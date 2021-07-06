@@ -17,7 +17,8 @@ git submodule update --remote libraries/firmware
 ---
 
 **description libraries:**
-Using library STM32duino_LwIP at version 2.1.2  Using library STM32duino_STM32Ethernet at version 1.2.0  
+Using library STM32duino_LwIP at version 2.1.2  
+Using library STM32duino_STM32Ethernet at version 1.2.0  
 Using library aREST at version 2.9.0  
 Using library IWatchdog at version 1.0.0 ***(internal library)***  
 Using library rBase64 at version 1.1.1  
