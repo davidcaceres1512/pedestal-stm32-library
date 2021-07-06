@@ -16,7 +16,7 @@ git submodule update --remote libraries/firmware
 ```
 ---
 
-**description libraries:**
+**description libraries:**  
 Using library STM32duino_LwIP at version 2.1.2  
 Using library STM32duino_STM32Ethernet at version 1.2.0  
 Using library aREST at version 2.9.0  
