@@ -8,7 +8,7 @@
 1. in each project, add this repository as a git submodule
 
 ```bash
-git add submodule https://github.com/davidcaceres1512/pedestal-stm32-library.git libraries/firmware
+git submodule add https://github.com/davidcaceres1512/pedestal-stm32-library.git libraries/firmware
 ```
 2. Update the git submodule
 ```bash
