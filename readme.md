@@ -8,27 +8,26 @@
 1. in each project, add this repository as a git submodule
 
 ```bash
-git add submodule https://github.com/davidcaceres1512/pedestal-stm32-library.git software/library
+git add submodule https://github.com/davidcaceres1512/pedestal-stm32-library.git libraries/firmware
 ```
 2. Update the git submodule
 ```bash
-git submodule update --remot software/library
+git submodule update --remote libraries/firmware
 ```
 ---
 
 **description libraries:**
-Using library STM32duino_LwIP at version 2.1.2 
-Using library STM32duino_STM32Ethernet at version 1.2.0 
-Using library aREST at version 2.9.0
-Using library IWatchdog at version 1.0.0 ***(internal library)***
-Using library rBase64 at version 1.1.1 
-Using library ArduinoJson at version 6.17.2 
-Using library NTPClient at version 3.2.0 
-Using library STM32RTC-master at version 1.1.0 
-Using library Crc16-master
-Using library CircularBuffer at version 1.3.3
-Using library PangolinMQTT at version 1.0.0
-Using library STM32AsyncTCP-master at version 1.0.0 
+Using library STM32duino_LwIP at version 2.1.2  Using library STM32duino_STM32Ethernet at version 1.2.0  
+Using library aREST at version 2.9.0  
+Using library IWatchdog at version 1.0.0 ***(internal library)***  
+Using library rBase64 at version 1.1.1  
+Using library ArduinoJson at version 6.17.2  
+Using library NTPClient at version 3.2.0  
+Using library STM32RTC-master at version 1.1.0  
+Using library Crc16-master  
+Using library CircularBuffer at version 1.3.3  
+Using library PangolinMQTT at version 1.0.0  
+Using library STM32AsyncTCP-master at version 1.0.0  
 Using library SrcWrapper at version 1.0.1 ***(internal library)***
 
 
